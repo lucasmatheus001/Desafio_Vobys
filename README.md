@@ -1,26 +1,50 @@
-# Kata
+<h1 align="center">
+    # DESAFIO VOBYS
+</h1>
+<p align="center"> Desafio proposto pela empresa VOBYS 💻 </p>
+<p align="center">
+ <a href="#Step-1">Step-1</a> •
+ <a href="#Step-2">Step-2</a> • 
+ <a href="#Step-3">Step-3</a> •  
+ <a href="#Step-4">Step-4</a> • 
+</p>
 
-Esta pasta contém o esqueleto de um projeto _javascript_ já com a estrutura necessária para solucionar o _kata_ especificado abaixo (moleza, hein?!).
+<h2 id="Step-1" > 🎯 Step - 1 </h2>
 
-## Problema
+Inicialmente usando o princípio do TDD, deve-se criar os testes primeiro fazendo com que os mesmos chamem métodos que não existem, fazendo com que os mesmos apresentem erros:
 
-Este é um _kata_ muito básico onde você deverá criar uma função que retorne o número recebido como argumento, com as seguintes exceções:
-  * Se o número for divisível por 3, então retorne a palavra `Fizz`
-  * Se o número for divisível por 5, então retorne a palavra `Buzz`
-  * Se o número for divisível por 3 e por 5, então retorne a palavra `FizzBuzz`
+![image](https://imgur.com/erdJ0BD.png)
 
-> Resolva o kata utilizando **TDD** e documente em _markdown_ todos os passos que você realizou durante o processo neste arquivo `README.md`.
-> Use este arquivo como um "diário de bordo" ou uma "ata de laboratório" (como preferir chamar).
-> Não se acanhe, pode mandar ver!
+<h2 id="Step-2" > 👷 Step - 2 </h2>💻
+Deve-se criar os métodos e funcionalidades para fazer com que os testes sejam aprovados:
 
-### Dicas
+![image](https://imgur.com/yQe9KcQ.png)
 
-Este projeto usa `npm`, então os seguintes comandos lhe serão úteis ao longo do processo:
+
+<h2 id="Step-3" > 💻 Step -3  </h2>
+Para executar a batéria de testes e verificar se os mesmo foram aprovados execute,os seguintes comandos:
 
 ```shell
 $ npm install
--> Para instalar as dependências necessárias.
+-> Caso ainda não tenha instalado as depedências execute o comando acima, para instalar as dependências necessárias.
 
 $ npm test
 -> Para executar os testes unitários.
 ```
+
+![image](https://user-images.githubusercontent.com/43191511/212581696-6fd087d8-831c-4b77-8e41-5a5956035ef7.png)
+
+<h2 id="Step-4" > 🎨 Step -4  </h2>
+Uma vez os testes aprovados , agora refatore os métodos e funcionalidades criada para ter uma performance melhor, refatorei a função anterior acima de  "fizzbuzz.ts" da seguinte maneira: 
+
+![image](https://imgur.com/Nihw1cU.png)
+
+<h2 id="author"> 💻 Author </h2>
+
+<img style="border-radius: 100%;" src="https://avatars.githubusercontent.com/u/43191511?s=400&u=c57ba37bf75041a129a29c3787965eeb2497f0ff&v=4" width="100px;" alt=""/>
+
+By Lucas Matheus 💻 Pode me achar pelo:
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucas-rochaa)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasmatheussm22@gmail.com)
+
