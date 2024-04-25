@@ -1,7 +1,7 @@
 <h1 align="center">
     # kata
 </h1>
-<p align="center"> Desafio proposto pela empresa VOBYS 💻 </p>
+<p align="center"> Desafio proposto pela empresa Kata 💻 </p>
 <p align="center">
  <a href="#Step-1">Step-1</a> •
  <a href="#Step-2">Step-2</a> • 
