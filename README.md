@@ -1,5 +1,5 @@
 <h1 align="center">
-    # DESAFIO VOBYS
+    # kata
 </h1>
 <p align="center"> Desafio proposto pela empresa VOBYS 💻 </p>
 <p align="center">
